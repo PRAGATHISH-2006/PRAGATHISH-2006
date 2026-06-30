@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Pragathish%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Pragathish%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://github.com/PRAGATHISH-2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+VSB+Engineering+College;MERN+Stack+Developer;Java+%26+DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+VSB+Engineering+College;Java+%26+DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
