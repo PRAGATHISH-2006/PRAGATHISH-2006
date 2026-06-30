@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Pragathish%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Typing animation -->
-<a href="https://github.com/pragathish-s">
+<a href="https://github.com/PRAGATHISH-2006">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%40+VSB+Engineering+College;MERN+Stack+Developer;Java+%26+DSA+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
@@ -20,14 +20,12 @@
 <br/>
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragathish-s)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragathish-s)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pragathish-s)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRAGATHISH-2006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragathish2006/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PRAGATHISH-2006/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selvanpragathish@gmail.com)
 [![Phone](https://img.shields.io/badge/Call-+91_8838589744-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918838589744)
-
-> ⚠️ **Note:** Update the GitHub/LinkedIn/LeetCode links above with your real profile URLs — placeholders were used since exact links weren't included in your resume text.
 
 </div>
 
@@ -47,7 +45,8 @@ passion: Building scalable, user-friendly applications & solving real-world prob
 
 🔭 Experienced through internships at **Infosys Springboard**, **Ether Infotech**, and **EncapsulateIT**
 🌱 Currently sharpening my **Data Structures & Algorithms** on LeetCode
-💬 Ask me about **React.js, Node.js, Java, MySQL, MongoDB**
+💬 Ask me about **React.js, Node.js, Java, MySQL**
+🗣️ Tamil (Native) | English (Professional)
 ⚡ Fun fact: I enjoy turning ideas into deployed, working products end-to-end
 
 ---
@@ -61,7 +60,6 @@ passion: Building scalable, user-friendly applications & solving real-world prob
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
@@ -74,7 +72,6 @@ passion: Building scalable, user-friendly applications & solving real-world prob
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -129,20 +126,6 @@ passion: Building scalable, user-friendly applications & solving real-world prob
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Medical Appointment & Health Management System
-**`Python` `Flask` `SQLite` `Bootstrap 5`**
-
-Full-stack health management system with dedicated portals for patients, doctors, and admins — supporting appointment booking, digital prescriptions, and medical record uploads.
-
-- 💳 Razorpay payment gateway integration
-- 📄 Automated PDF prescription generation
-- 🔔 Smart notification system via Flask & SQLAlchemy ORM
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎓 Alumni Networking and Job Portal
 **`React.js` `Node.js` `Express.js` `MySQL`**
 
@@ -152,43 +135,25 @@ Full-stack MERN platform connecting alumni and students through job postings, me
 - 🔗 REST APIs built with Node.js & Express.js
 - 🌐 Responsive React.js frontend, deployed on **Vercel**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Bug & Error Solution Search Assistant
-**`Python` `Flask` `Gemini API` `HTML/CSS`**
-
-AI-powered assistant that accepts code snippets or error messages and returns context-aware debugging solutions in real time.
-
-- 🧠 Powered by the Gemini API
-- 🖥️ Clean, minimal Flask + HTML/CSS interface
-- 🌍 Supports multiple programming languages
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PRAGATHISH-2006/Alumni-networking-and-job-portal)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 E-Commerce Website
-**`PHP` `JavaScript` `HTML/CSS` `MySQL`**
+### 🏥 Medical Appointment & Health Management System
+**`Python` `Flask` `SQLite` `Bootstrap 5`**
 
-Full-stack online shopping platform featuring product listings, cart functionality, and order management.
+Full-stack health management system with dedicated portals for patients, doctors, and admins — supporting appointment booking, digital prescriptions, and medical record uploads.
 
-- ⚙️ PHP backend with MySQL data storage
-- 📱 Responsive, user-friendly UI
-- 📦 End-to-end order management flow
+- 💳 Razorpay payment gateway integration
+- 📄 Automated PDF prescription generation
+- 🔔 Smart notification system via Flask & SQLAlchemy ORM
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PRAGATHISH-2006/medical_appointment_system)
 
 </td>
 </tr>
 </table>
-
-> 💡 Replace the `#` links above with your actual GitHub repository URLs.
 
 ---
 
@@ -215,10 +180,6 @@ V.S.B. Engineering College (Autonomous), Karur, Tamil Nadu
 | 🟦 Programming in Java (NPTEL) — Score: 72% | NPTEL | March 2025 |
 | ☕ Java Foundation Certification | Infosys Springboard | June 2025 |
 | 🐍 Python Foundation Certification | Infosys Springboard | August 2024 |
-| ✨ Principles of Generative AI | Infosys Springboard | June 2025 |
-| 🧠 Artificial Intelligence Primer | Infosys Springboard | June 2025 |
-
-🟧 Active **LeetCode** problem solver — focused on Arrays, Strings, OOP, Trees & Sorting
 
 ---
 
@@ -226,14 +187,12 @@ V.S.B. Engineering College (Autonomous), Karur, Tamil Nadu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pragathish-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pragathish-s&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PRAGATHISH-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAGATHISH-2006&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragathish-s&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAGATHISH-2006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
-> 💡 These widgets pull live data automatically once your real GitHub username replaces `pragathish-s`.
 
 ---
 
@@ -244,7 +203,7 @@ V.S.B. Engineering College (Autonomous), Karur, Tamil Nadu
 I'm always open to discussing new projects, internship opportunities, or collaborations.
 
 [![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selvanpragathish@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragathish-s)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragathish2006/)
 
 <br/>
 
