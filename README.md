@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There,%20I'm%20Pragathish%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20%7C%20Problem%20Solver%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Pragathish%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 
 <!-- Typing animation -->
 <a href="https://github.com/PRAGATHISH-2006">
@@ -10,21 +10,10 @@
 
 <br/>
 
-<!-- Animated visitor counter & profile views -->
-<img src="https://komarev.com/ghpvc/?username=PRAGATHISH-2006&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/PRAGATHISH-2006?style=for-the-badge&color=2575fc&label=FOLLOWERS&logo=github" />
-
-<br/><br/>
-
 <!-- Badges -->
 <img src="https://img.shields.io/badge/📍_Location-Dharapuram,_Tamil_Nadu,_India-2575FC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🎓_CGPA-8.30%2F10.0-6a11cb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Open_to-Internships_%7C_Full--Time_Roles-success?style=for-the-badge" />
-
-<br/>
-
-<!-- Animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" />
 
 </div>
 
@@ -44,8 +33,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />
-
 ```yaml
 name: Pragathish S
 role: B.Tech Information Technology Student
@@ -61,8 +48,6 @@ passion: Building scalable, user-friendly applications & solving real-world prob
 💬 Ask me about **React.js, Node.js, Java, MySQL**
 🗣️ Tamil (Native) | English (Professional)
 ⚡ Fun fact: I enjoy turning ideas into deployed, working products end-to-end
-
-<br clear="both"/>
 
 ---
 
@@ -202,32 +187,10 @@ V.S.B. Engineering College (Autonomous), Karur, Tamil Nadu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PRAGATHISH-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=2575FC&icon_color=6A11CB&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAGATHISH-2006&theme=tokyonight&hide_border=true&background=0D1117&ring=2575FC&fire=6A11CB&currStreakLabel=2575FC" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PRAGATHISH-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAGATHISH-2006&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAGATHISH-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2575FC&text_color=ffffff" height="165"/>
-
-<br/>
-
-<!-- Animated contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRAGATHISH-2006&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2575FC&line=6A11CB&point=ffffff" width="100%"/>
-
-<br/>
-
-<!-- Trophy showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=PRAGATHISH-2006&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PRAGATHISH-2006/PRAGATHISH-2006/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
-
-<sub>✨ Generated via the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — add the workflow to your profile repo to activate it.</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAGATHISH-2006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -244,8 +207,7 @@ I'm always open to discussing new projects, internship opportunities, or collabo
 
 <br/>
 
-<!-- Animated footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
 
 **⭐ Thanks for visiting my profile — feel free to star my repositories!**
 
