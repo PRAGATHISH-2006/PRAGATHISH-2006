@@ -130,9 +130,9 @@ Secure appointment & record management with role-based access, PBKDF2 hashing, R
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRAGATHISH-2006&theme=synthwave&hide_border=true&bg_color=00000000" />
 </p> 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PRAGATHISH-2006&theme=radical&no-frame=true&row=1&margin-w=15&column=7" />
-</p> -->
+</p> 
 
 ## 💬 Random Dev Quote
 
